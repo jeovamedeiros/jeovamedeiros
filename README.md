@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jeová Medeiros
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeova_1/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeovamedeiros)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeov%C3%A1-medeiros-64125520b/)
 
 ![Jeová GitHub stats](https://github-readme-stats.vercel.app/api?username=jeovamedeiros&show_icons=true&theme=dracula)
 
